@@ -9,7 +9,7 @@ const baileys = require('@whiskeysockets/baileys');
  const os = require('os')
  const fetch = require('node-fetch')
  const FormData = require('form-data')  
-global.botNumberCode = "" //Ejemplo: +59309090909
+global.botNumberCode = "+50584887870" //Ejemplo: +59309090909
 global.phoneNumber = ""
 
  global.owner = [ 
@@ -17,15 +17,15 @@ global.phoneNumber = ""
  ["5492266613038"],
  ["5217779091180"],
  ["50375961083"],
- ["50246028932"]
+ ["50584887870"]
  ] 
 
 global.mods = []
-global.premium = []  
+global.premium = ["50584887870"]  
 global.blockList = []  
 
- global.botname = "SHADOW-乃ㄖㄒ-爪ᗪ+" 
- global.wm = 'SHADOW-🅑︎🅞︎🅣︎+' 
+ global.botname = "NIGGA-乃ㄖㄒ-爪ᗪ+" 
+ global.wm = 'NIGGA-🅑︎🅞︎🅣︎+' 
  global.vs = '1.0.0' 
  global.place = 'America/Bogota' // Aquí puede encontrar su ubicación https://momentjs.com/timezone/ 
 global.baileys = baileys
